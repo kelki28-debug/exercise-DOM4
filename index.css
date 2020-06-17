@@ -1,0 +1,11 @@
+li{
+    list-style: none;
+}
+.img img{
+    width: 20%;
+    
+}
+.img{
+    display: inline-block;
+    text-align: center;
+}
